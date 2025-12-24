@@ -14,4 +14,4 @@ elif env == "prod":
 else:
     print("Invalid environment")
 if env == "dev":
-        sum_of_num()
+    sum_of_num()
